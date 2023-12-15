@@ -1,4 +1,6 @@
-# Welcome to my Netflix data analysis project! This repository explores and analyzes various aspects of Netflix's content and user behavior using available datasets.
+# Welcome to my Netflix data analysis project! 
+  
+  This repository explores and analyzes various aspects of Netflix's content and user behavior using available datasets.
 
 # Project Goals
   Understand the landscape of Netflix's content offerings:
