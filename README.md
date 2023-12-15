@@ -26,6 +26,12 @@
   
   We also saw how to handle missing and duplicated values in the dataset
 
+  We saw highest rating Tv show or Movies in dataset.
+  
+  Which month is best for movies realising and so on.
+
+  We also saw how to make countplots and find unique values for any particular column in the dataset
+
 # Contributing
   
   Feel free to contribute to this project by:
@@ -33,9 +39,7 @@
   Forking and extending the analysis.
   Adding new data sources or analysis techniques.
   Sharing your insights and findings in the comments.
-  Please keep all contributions relevant to the project goals and maintain a clean and documented codebase.
-  We also saw how to make countplots and find unique values for any particular column in the dataset
-
-  We saw highest rating Tv show or Movies in dataset.
   
-  Which month is best for movies realising and so on.
+  Please keep all contributions relevant to the project goals and maintain a clean and documented codebase.
+
+  
